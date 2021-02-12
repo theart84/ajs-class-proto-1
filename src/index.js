@@ -4,4 +4,4 @@ import './js/Swordsman';
 import './js/Zombie';
 import './js/Magician';
 import './js/Undead';
-import './js/Deamon';
+import './js/Daemon';
